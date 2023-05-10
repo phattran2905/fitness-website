@@ -126,7 +126,7 @@ function ContactUs({ setSelectedPage }: Props) {
                   </p>
                 )}
 
-                {/* <input name="_formsubmit_id" type="text" className="hidden" /> */}
+                <input name="_formsubmit_id" type="text" className="hidden" />
 
                 <button
                   type="submit"
