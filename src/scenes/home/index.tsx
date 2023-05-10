@@ -48,9 +48,9 @@ function Home({ setSelectedPage }: Props) {
           </motion.div>
 
           <p className="mt-8 text-sm">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Soluta
-            error repellat cumque. Eius quae facilis sequi voluptas ullam
-            temporibus sunt fuga, quo, nesciunt officiis adipisci.
+            Unrivaled Gym. Unparalleled Training Fitness Classes. World Class
+            Studios to get the Body Shapes That you Dream of.. Get Your Dream
+            Body Now.
           </p>
 
           {/* Actions */}
